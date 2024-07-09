@@ -1,5 +1,5 @@
 # 💫 About Me:
-Recem formado como Analista de BI na DNC<br>Estou a procura de uma oportunidade na area<br>
+Formado como Analista de BI, Vigilante e Auxiliar de Recursos Humanos, com experiência em atendimento de clientes, planejamento,  treinamento e liderança nos restaurantes que trabalhei, atualmente em migração de carreira para a área de tecnologia, e me especializando em ferramentas como SQL, Power BI, Excel e  Python (Estudando).
 
 
 ## 🌐 Socials:
